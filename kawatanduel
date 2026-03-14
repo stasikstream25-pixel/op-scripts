@@ -1,0 +1,7 @@
+task.spawn(function()
+  loadstring(game:HttpGet("https://api.luarmor.net/files/v4/loaders/1705bd97bd987f2a45c19a337b139991.lua"))()
+end)
+
+task.spawn(function()
+   loadstring(game:HttpGet("https://api.jnkie.com/api/v1/luascripts/public/e62fbdace39c698cf15f7b5b76781b2ad729f30457a072db440ab705a938bd60/download"))()
+end)
